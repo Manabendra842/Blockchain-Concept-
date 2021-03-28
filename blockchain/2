@@ -1,0 +1,9 @@
+{
+    "borrower": "ffe",
+    "lender": "wxr",
+    "amount": "123",
+    "prev_block": {
+        "hash": "2c80cad7de46842a31e063187758e732",
+        "filename": "1"
+    }
+}
